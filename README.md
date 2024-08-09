@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhisheklearn12
-- 👀 I’m interested in "Computer Science".
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Many AI/ML projects.
-- 📫 How to reach me through my mail.
+- 👀 I’m interested in "Computer Science" and i do because it makes my satisfied so that i can get great night sleep.
+- 🌱 I’m currently learning Machine Learning and AI.
+- 💞️ I’m looking to collaborate on Many AI/ML projects/ Open source startups that have potential to create impact.
+- 📫 How to reach me: Through my mail.
 - ⚡ Fun fact: I love to dance and listen songs.
 - 🔥 Just hava a passion.
   
