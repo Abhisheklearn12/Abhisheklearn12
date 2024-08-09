@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhisheklearn12
-- 👀 I’m interested in "Computer Science" and i do because it makes my satisfied so that i can get great night sleep.
+- 👀 I’m interested in "Computer Science" and I do because it makes my satisfied so that i can get great night sleep.
 - 🌱 I’m currently learning Machine Learning and AI.
 - 💞️ I’m looking to collaborate on Many AI/ML projects/ Open source startups that have potential to create impact.
 - 📫 How to reach me: Through my mail.
