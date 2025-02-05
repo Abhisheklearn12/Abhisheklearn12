@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhisheklearn12
-- 👀 I’m interested in "Computer Science" and I do because it makes my satisfied so that i can get great night sleep.
+- 👀 I’m interested in "Computer Science" and I do because it makes me satisfied so that i can get great night sleep.
 - 🌱 I’m currently learning Web3 and Machine Learning and AI.
-- 💞️ I’m looking to collaborate on Many Web3 and Blockchains and AI/ML projects/ Open source startups that have potential to create impact.
+- 💞️ I’m looking to collaborate on any Full stack, Web3 and Blockchains and AI/ML projects/ Open source startups that have potential to create impact.
 - 📫 How to reach me: Through my mail.
 - ⚡ Fun fact: I love to dance and listen songs.
 - 🔥 Just hava a passion.
