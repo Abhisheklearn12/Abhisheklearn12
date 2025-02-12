@@ -6,10 +6,10 @@
 - ⚡ Fun fact: I love to dance and listen songs.
 - 🔥 Just hava a passion.
 <h2> My Favourite Languages that I truly fall in love with: </h2>
-  <h3> ✅ Rust</h3>
-  <h3> ✅ C++</h3>
-  <h3> ✅ C</h3>
-  <h3> ✅ X-86 Assembly</h3>
+  <h3> Rust</h3>
+  <h3> C++</h3>
+  <h3> C</h3>
+
  
   
 
