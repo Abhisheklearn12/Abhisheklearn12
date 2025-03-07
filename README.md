@@ -17,10 +17,6 @@ I'm deeply passionate about:
 
 💡 **Curious minds connect!** Let's collaborate, innovate, and build the future.  
 
----
-
-This version is **clean, minimal, and impactful** while reflecting your passion. Let me know if you want tweaks! 🚀
-
 <!---
 Abhisheklearn12/Abhisheklearn12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
