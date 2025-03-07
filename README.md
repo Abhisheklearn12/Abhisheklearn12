@@ -1,5 +1,3 @@
-Here's a **clean, authentic, and visually appealing** README for your GitHub profile:  
-
 ---
 
 # 👋 Hey, I'm Abhishek!  
