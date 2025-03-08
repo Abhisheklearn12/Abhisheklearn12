@@ -3,6 +3,8 @@
 
 ### 🚀 Learning. Building. Innovating.  
 
+#### I love Rust, Go, Elixir and building stuffs and yes "C" is the first lang that I learnt.
+
 I'm deeply passionate about:  
 
 🧠 **Machine Learning & AI** – Exploring the intelligence behind the future.  
@@ -11,7 +13,7 @@ I'm deeply passionate about:
 ⚡ **Just Learning & Building** – Every day, pushing boundaries.  
 
 ### 🔍 What You'll Find Here  
-🔹 Open-source projects in AI, Rust, and blockchain.  
+🔹 Open-source projects in AI and blockchain.  
 🔹 Deep dives into system design & low-level programming.  
 🔹 Learning resources & experiments that challenge the norm.  
 
