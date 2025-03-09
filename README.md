@@ -3,8 +3,6 @@
 
 ### 🚀 Learning. Building. Innovating.  
 
-#### I love Rust, Go, Elixir and building stuffs and yes "C" is the first lang that I learnt.
-
 I'm deeply passionate about:  
 
 🧠 **Machine Learning & AI** – Exploring the intelligence behind the future.  
