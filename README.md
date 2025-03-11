@@ -1,5 +1,5 @@
 
 # 👋 Hey, I'm Abhishek!  
 
-## Learning. Building. Innovating.  
+## Learning. Building. Problem Solving. Shipping. Innovating
 
