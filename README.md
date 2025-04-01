@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm Abhishek!  
 
-## Learning Building Problem Solving Shipping Innovating
+## Learning, Building, Problem Solving, Shipping, Innovating
 
 ## Really love C, Assembly, Rust
 ### Mainly Passionate about:
