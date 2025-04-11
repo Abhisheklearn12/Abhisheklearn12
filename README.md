@@ -9,5 +9,5 @@
 #### 2. System design (Distributed systems)
 #### 3. Full stack development
 #### 4. Web3/blockchains as well as AI/ML
-#### 5. Math, Literally love Maths
+#### 5. Maths, Literally love Maths
 
