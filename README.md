@@ -11,5 +11,5 @@
 #### 4. Web3/blockchains as well as AI/ML
 #### 5. Maths, Literally love Maths
 
-## My Philosophy:I deeply Respect "First Principle Thinking, Reverse engineering, Breaking down complex Idea into Super Small Actionable Ideas" and I apply these principles in my life.
+### My Philosophy:I deeply Respect "First Principle Thinking, Reverse engineering, Breaking down complex Idea into Super Small Actionable Ideas" and I apply these principles in my life.
 
