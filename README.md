@@ -17,4 +17,4 @@
 #### 😇 Mine langs (that I learnt): C, Rust, Go, Javascript/Typescript, Python, C++, Zig.
 #### 🤫 2026 goals for langs: Assembly ((x86-64 with NASM (intel like syntax) and ARM64), Elixir, Lua, Haskell.
 
-### Btw I use Linux OS regular on  a basis, I just love to build stuffs on this.
+### Btw I use Linux OS on a regular basis, I just love to build stuffs on this.
