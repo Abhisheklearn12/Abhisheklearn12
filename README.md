@@ -15,4 +15,4 @@
 ### I think in systems (system thinking) is very very important in my life, everything I do with some clear system in mind.
 
 #### 😇 Mine langs (that I learnt): C, Rust, Go, Javascript/Typescript, Python.
-#### 🤫 Exploring: Assembly (x86-64 with NASM (intel like syntax and ARM64), C++-17, Zig, Elixir, Lua.
+#### 🤫 Exploring: Assembly (x86-64 with NASM (intel like syntax and ARM64)), C++-17, Zig, Elixir, Lua.
