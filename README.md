@@ -14,5 +14,5 @@
 #### My Philosophy: I deeply Respect "First Principle Thinking, Reverse engineering, Breaking down complex Idea into Super Small Actionable Ideas" and I apply these principles in my life.
 ### I think in systems (system thinking) is very very important in my life, everything I do with some clear system in mind.
 
-#### 😇 Mine langs (that I learnt): C, Rust, Go, Javascript/Typescript, Python.
-#### 🤫 Exploring: Assembly (x86-64 with NASM (intel like syntax and ARM64)), C++-17, Zig, Elixir, Lua.
+#### 😇 Mine langs (that I learnt): C, Rust, Go, Javascript/Typescript, Python, C++, Zig.
+#### 🤫 Exploring: Assembly (x86-64 with NASM (intel like syntax and ARM64)), Elixir, Lua.
