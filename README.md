@@ -19,4 +19,4 @@
 #### 🤫 2026 goals for langs: Elixir, Lua, Haskell.
 
 ### Btw I use Linux OS on a regular basis, I just love to build stuffs on Linux/GNU.
-### There's nothing in this world, that i can't build and solve, everything starts from mindset and I lietrally love to do this, it's my doopamine.
+#### There's literally nothing in this world, that I can't build and solve, everything starts from mind and I lietrally love to do this, it's my doopamine.
