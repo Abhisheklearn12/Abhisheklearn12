@@ -3,7 +3,7 @@
 
 ## Learning, Building, Problem Solving, Shipping, Innovating
 
-## Really love C, Assembly, Rust
+## Really love C, C++, Assembly, Rust
 ### Mainly Passionate about:
 #### 1. Low level stuffs/system level stuffs
 #### 2. System design (Distributed systems)
