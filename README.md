@@ -2,6 +2,7 @@
 # 👋 Hey, I'm Abhishek!  
 
 ## Learning, Building, Problem Solving, Shipping, Innovating
+## Literally love C, Assembly, Rust, C++
 
 #### My Philosophy: I deeply Respect "First Principle Thinking, Reverse engineering, Breaking down complex Idea into Super Small Actionable Ideas" and I apply these principles in my life.
 ### I think in systems (system thinking) is very very important in my life, everything I do with some clear system in mind.
