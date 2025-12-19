@@ -5,5 +5,5 @@
 > Literally love C, Assembly, Rust, C++, Go for simplicity and deep control.
 > Incredibly passionate about distributed systems and low level system internals.
 > Also code Javascript/typescript and python for Full stack and Gen Ai apps.
-> Sometimes X86-64 GAS/AT&T assembly for fun and learning.
+> Sometimes X86-64 GAS/AT&T Assembly for fun and learning.
 ```
