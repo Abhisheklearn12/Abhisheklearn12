@@ -9,4 +9,7 @@
 > First Principle Thinker
 > "Database Internals engineer"
 ```
-📫 You can get in touch with me via email at cseabhishek123@gmail.com
+## 📬 Contact Me
+
+- 📧 Email: cseabhishek123@gmail.com
+- 🐦 Twitter/X: [DM me here](https://x.com/Abhishekcur)
