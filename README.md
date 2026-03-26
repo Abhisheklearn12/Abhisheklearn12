@@ -8,6 +8,7 @@
 > Sometimes X86-64 GAS/AT&T Assembly for fun and learning.
 > First Principle Thinker
 > "Database Internals engineer"
+> A "Rustacean" guy
 ```
 ## 📬 Contact Me
 
