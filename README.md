@@ -9,6 +9,7 @@
 > First Principle Thinker
 > Database Internals Engineer
 > A Rustacean guy
+> OSS contributor into DB, Infra projects
 ```
 ## 📬 Contact Me
 
