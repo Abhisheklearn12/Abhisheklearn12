@@ -9,6 +9,7 @@
 > First Principle Thinker
 > Database Internals Engineer
 > A Rustacean guy
+> Going deeply into "Distributed Inference and high performance CUDA kernels"
 > OSS contributor into DB, Infra projects
 ```
 ## 📬 Contact Me
