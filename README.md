@@ -7,9 +7,8 @@
 > and squeezing performance where it actually matters.
 > Sometimes X86-64 GAS/AT&T Assembly for fun and learning.
 > First Principle Thinker
-> Database Internals Engineer
-> A Rustacean guy
-> Going deeply into "Distributed Inference and high performance CUDA kernels"
+> Distributed and Heterogeneous Inference Engineering
+> Ml Performance Inference Engineering
 > OSS contributor into DB, Infra projects
 ```
 ## 📬 Contact Me
