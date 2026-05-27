@@ -1,7 +1,6 @@
 
 # 👋 Hey, I'm Abhishek!  
 ```
-> Learning, Building, Problem Solving, Shipping, Innovating.
 > Literally love C, Assembly, Rust, C++ for deep control.
 > Incredibly passionate about distributed systems, low level system internals,
 > and squeezing performance where it actually matters.
