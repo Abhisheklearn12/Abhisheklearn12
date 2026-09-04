@@ -7,7 +7,7 @@
 > Sometimes X86-64 GAS/AT&T Assembly for fun and learning.
 > First Principle Thinker
 > Ml Performance Inference Engineering
-> OSS contributor into DB, Infra projects
+> OSS contributor into Paradedb, Arrow-rs, Datafusion etc.
 ```
 ## 📬 Contact Me
 
