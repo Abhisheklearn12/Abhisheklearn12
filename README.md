@@ -1,9 +1,9 @@
 
 # 👋 Hey, I'm Abhishek!  
 
-## ⚡ Systems & Performance Engineer
+## Systems & Performance Engineer
 
-**I work on ML inference and performance-critical systems, from CUDA kernels to distributed systems.**
+**I work on ML inference, CUDA kernels, and distributed systems, with a focus on performance.**
 
 I enjoy finding where time, memory, and bandwidth are going, then using what I learn to make things better. I work with Rust, C++, C, CUDA, and Assembly.
 
