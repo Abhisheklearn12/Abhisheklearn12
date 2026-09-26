@@ -1,19 +1,13 @@
 
 # 👋 Hey, I'm Abhishek!  
 
-> **Systems & Performance Engineer**
->
-> I love **Rust, C++, C, CUDA, and Assembly** because they let me get close to how systems actually work.
->
-> I’m deeply interested in **ML inference, distributed systems, databases, low-level systems, and performance engineering**. I like finding where the time, memory, bandwidth, or compute is actually going, then figuring out how to make it better.
->
-> I learn by **building, profiling, breaking things, and going as deep as needed to understand what’s actually happening**.
->
-> **Open-source contributor to Apache DataFusion, Arrow-rs, ParadeDB, and Lance.**
->
-> Currently spending a lot of time on **CUDA kernels, inference systems, and performance-critical infrastructure**.
->
-> **First principles. Build it. Measure it. Understand it.**
+## ⚡ Systems & Performance Engineer
+
+**I work on ML inference and performance-critical systems, from CUDA kernels to distributed systems.**
+
+I enjoy finding where time, memory, and bandwidth are going, then using what I learn to make things better. I work with Rust, C++, C, CUDA, and Assembly.
+
+I've contributed to Apache DataFusion, Arrow-RS, ParadeDB, and Lance.
 
 ## 📬 Contact Me
 
