@@ -9,6 +9,8 @@ I enjoy finding where time, memory, and bandwidth are going, then using what I l
 
 I've contributed to Apache DataFusion, Arrow-RS, ParadeDB, and Lance.
 
+Diving into Post-training and Inference too.
+
 ## 📬 Contact Me
 
 - 📧 Email: cseabhishek123@gmail.com
